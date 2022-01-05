@@ -1,0 +1,18 @@
+{
+  "name": "rainbow-cli-dev-template-custom-vue2",
+  "version": "1.0.2",
+  "description": "将模板改为模板渲染的形式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "fs-extra": "^10.0.0",
+    "glob": "^7.2.0",
+    "inquirer": "^8.2.0"
+  }
+}
